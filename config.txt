@@ -1,0 +1,11 @@
+{
+	"username":"1kw-user",
+	"screenshotFolder":"/home/1kw/caps/",
+
+	"cleanupImage":0,
+	"ignoreString":"thumb",
+	"maxhistory":32,
+	"botChannel":"channeltowatch",
+	"webhookUrl":"yourwebhookurl",
+	"botToken":"yourbottoken"
+}

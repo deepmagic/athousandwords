@@ -1,0 +1,13 @@
+{
+  "name": "athousandwords",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts":{ 
+	"start":"nw"
+  },
+  "dependencies": {
+    "nw": "^0.20.2",
+    "request": "^2.79.0",
+    "watch": "^1.0.1"
+  }
+}
