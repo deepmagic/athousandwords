@@ -2,8 +2,13 @@
   "name": "athousandwords",
   "version": "0.0.1",
   "main": "index.html",
+  "license": "MIT",
+  "repository":{ 
+    "type": "git", 
+    "url": "https://github.com/deepmagic/athousandwords.git"
+  },
   "scripts":{ 
-	"start":"nw"
+	"start": "nw"
   },
   "dependencies": {
     "nw": "^0.20.2",
